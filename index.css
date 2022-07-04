@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   }
+   .button-section {
+margin-top: 2rem;
+text-align: center;
+
+   }
+
+   .prozorPodaci {
+      max-width: 650px;
+      padding: 20px;
+      margin: 30px auto;
+      background-color: rgb(39, 244, 217);
+      box-shadow: 10px 10px 10px #f4f2f2;
+      overflow: hidden;
+    }
+
+    h3{
+      color: #00d1b2
+    }
+
+    p{
+        font-size: 20px;
+    }
+    body {
+       background: rgb(169, 243, 232);
+    }
